@@ -1,0 +1,33 @@
+.line{
+    height: 200px;
+    width: 5px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    right: 25%;
+    z-index: 10;
+}
+
+.circle{
+    height: 15px;
+    width: 15px;
+    background-color: #eae8e8;
+    border-radius: 50%;
+    position: absolute;
+    top: 30%;
+    right: 24.4%;
+    z-index: 10;
+    border: 2px solid #c2c2c2;
+}
+.circle2{
+    height: 15px;
+    width: 15px;
+    background-color: #eae8e8;
+    border-radius: 50%;
+    position: absolute;
+    top: 150%;
+    right: 24.4%;
+    z-index: 10;
+    border: 2px solid #c2c2c2;
+}
