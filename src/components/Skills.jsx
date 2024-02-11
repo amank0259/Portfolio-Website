@@ -78,7 +78,7 @@ const Skills = () => {
     return (
         <div name="skills" className='page-3 bg-gradient-to-b from-black to-gray-800 lg:pt-40 w-full h-screen pb-40 z-10'>
             <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white z-10'>
-                <div className='mt-8 lg:pt-20 pt-40'>
+                <div className='mt-10 lg:pt-20 pt-40'>
                     <h1 className='text-5xl font-extrabold border-b-4 border-gray-300 p-2 inline z-10'>Skills</h1>
                     <p className='py-6 mt-4 text-2xl font-bold z-10'>What I know...</p>
                 </div>

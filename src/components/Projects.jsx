@@ -4,6 +4,7 @@ import project2 from '../assets/projects/project2.jpeg'
 import project3 from '../assets/projects/project3.jpeg'
 import project4 from '../assets/projects/project4.jpeg'
 import project5 from '../assets/projects/project5.png'
+import project6 from '../assets/projects/project6.png'
 
 
 const Projects = () => {
@@ -38,6 +39,12 @@ const Projects = () => {
             src: project5,
             demoSrc: "https://amank0259.github.io/gsap-animated-website/",
             codeSrc: "https://www.github.com/gsap-animated-website/",
+        },
+        {
+            id: 6,
+            src: project6,
+            demoSrc: "https://amank0259.vercel.app",
+            codeSrc: "https://github.com/amank0259/amank0259-Aman-kumar-Portfolio-Website",
         }
     ]
 

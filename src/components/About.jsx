@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div name="about" className='page-2 pb-20 w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'>
       <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full z-10'>
-        <div className='lg:mt-40 mt-10 z-10'>
+        <div className='lg:mt-40 mt-20 z-10'>
           <h1 className='text-5xl font-extrabold inline border-b-4 border-gray-300 z-10'>About</h1>
         </div>
         <p className='text-xl mt-20 hidden lg:block text-justify z-10'>

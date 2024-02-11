@@ -29,7 +29,8 @@ const Navbar = () => {
     return (
         <div className='flex justify-evenly items-center w-full h-20 px-4 text-white bg-black opacity-90 fixed gap-40 z-20'>
             <div>
-                <Link to='home' smooth duration={500} className='text-5xl font-signature cursor-pointer ml-4'>A<span className='text-red-600'>man</span></Link>
+
+                <Link to='home' smooth duration={500} className='text-5xl text-white tracking-widest font-cursive font-bold cursor-pointer ml-4'>A<span className='text-red-600 font-signature tracking-widest font-bold'>man</span></Link>
             </div>
 
             <ul className='hidden md:flex'>

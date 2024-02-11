@@ -8,6 +8,8 @@ export default {
     extend: {},
     fontFamily: {
       signature: ["Great Vibes"],
+      Rajdhani: "Rajdhani",
+      cursive: ['Clicker Script', 'cursive'],
     },
   },
   plugins: [],
