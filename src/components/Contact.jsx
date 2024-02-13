@@ -18,6 +18,9 @@ const Contact = () => {
                     </form>
                 </div>
             </div>
+            <footer className="flex justify-center bg-gray-800 pb-6">
+                <h4 className='text-md lg:text-xl font-semibold'>Created with <span className="text-red-500">&#10084;</span> by me </h4>
+            </footer>
         </div>
     )
 }
