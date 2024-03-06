@@ -64,7 +64,7 @@ const Skills = () => {
         {
             id: 9,
             src: figma,
-            title: 'Fogma',
+            title: 'Figma',
             style: 'shadow-green-800'
         },
         {
