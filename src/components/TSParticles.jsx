@@ -30,7 +30,7 @@ const TSParticles = () => {
                     "enable": true,
                     "zIndex": 0,
                 },
-                fpsLimit: 144,
+                fpsLimit: 120,
                 interactivity: {
                     events: {
                         onClick: {
@@ -55,13 +55,13 @@ const TSParticles = () => {
                 },
                 particles: {
                     color: {
-                        value: "#ffffff",
+                        value: ["#ffffff", "#ff0000", "#ff00ff", "#00ffff"],
                     },
                     links: {
-                        color: "#ffffff",
+                        color: ["#ffffff", "#ff0000", "#ff00ff", "#00ffff"],
                         distance: 150,
                         enable: true,
-                        opacity: 0.1,
+                        opacity: 0.2,
                         width: 0.5,
                     },
                     move: {
@@ -88,7 +88,7 @@ const TSParticles = () => {
                         type: "circle",
                     },
                     size: {
-                        value: { min: 1, max: 5 },
+                        value: { min: 2, max: 6 },
                     },
                 },
                 detectRetina: true,
