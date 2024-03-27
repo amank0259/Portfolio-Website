@@ -27,7 +27,7 @@ const Home = () => {
   };
 
   return (
-    <div name="home" className='page-1 w-full h-screen bg-gradient-to-b from-black via-black to-gray-800'>
+    <div name="home" className='page-1 w-full h-screen py-10 bg-gradient-to-b from-black via-black to-gray-800'>
       <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center md:justify-between h-full px-4 md:flex-row md:gap-40 z-10'>
         <div className='flex flex-col pt-20 justify-center w-full mb-0 h-full'>
           <h1 className='text-4xl sm:text-6xl font-Rajdhani font-black text-white z-10'>AMAN KUMAR</h1>

@@ -17,7 +17,7 @@ const About = () => {
           My passion lies in pushing the boundaries of innovation and continuously enhancing my skills. Obsessed with the notion of self-improvement, I am on the lookout for a platform that fosters growth and acceleration in the ever-evolving landscape of #WebDev and #JavaScript.</p>
         <br />
         <p className='text-xl text-justify hidden lg:block z-10'>Eager to contribute to cutting-edge projects and motivated by the pursuit of excellence, I bring a dynamic blend of academic knowledge and practical experience to any development team.</p>
-        <div className='lg:mt-10 z-10'>
+        <div className='lg:mt-10 z-10 my-10'>
           <h1 className='text-4xl font-bold inline z-10'>Education</h1>
           <div className='mt-8 relative'>
             <div className='line'></div>

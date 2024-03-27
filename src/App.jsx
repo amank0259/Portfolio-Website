@@ -12,17 +12,17 @@ import Footer from "./components/Footer"
 function App() {
 
   return (
-    <>
+    <div className="w-full">
       <TSParticles />
       <Navbar />
       <Home />
       <SocialLinks />
       <About />
       <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
-    </>
+      {/* <Projects /> */}
+      {/* <Contact /> */}
+      {/* <Footer /> */}
+    </div>
   )
 }
 
